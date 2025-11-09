@@ -11,7 +11,7 @@ I'm a **Tech Lead - Mobile** with extensive experience in software development, 
 - 🙅‍♂️ **Not seeking new opportunities at the moment**
 - 🌐 [My GitHub profile](https://github.com/hansobvius)
 - 🧑‍💻 **Public repositories**: 61+
-- 🔒 **Private repositories**: 36
+- 🔒 **Private repositories**: 36+
 - 👥 **Followers**: 31
 
 ## ❤️ What I Do
